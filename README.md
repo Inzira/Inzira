@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Inzira
+
+- 👋  Hi! I’m @Inzira.
+
+I'm starting my career in data analytics
+
 - 👀 I’m interested in analytics
 
 
