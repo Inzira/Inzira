@@ -3,8 +3,6 @@
 
 I'm starting my career in data analytics
 
-- 👀 I’m interested in analytics
-
 
 <!---
 Inzira/Inzira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
